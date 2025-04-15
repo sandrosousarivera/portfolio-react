@@ -1,0 +1,16 @@
+@import "tailwindcss/preflight";
+@import "tailwindcss/utilities";
+
+:root {
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+body {
+  background-color: #090b1a;
+  color: #c0bebf;
+  font-family: "Atkinson Hyperlegible Mono", monospace;
+  letter-spacing: -0.025em;
+}
